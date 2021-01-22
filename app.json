@@ -35,7 +35,7 @@
       "value": ""
     },
     "AUTONAME": {
-      "description": "Enter Your Telegram Name Ex. ◢◤ʏᴏᴜʀ ɴᴀᴍᴇ◢◤ ! Required for .autoname Plugin",
+      "description": "Enter Your Telegram Name Ex. 🤕 ʏᴏᴜʀ ɴᴀᴍᴇ 🤕  ! Required for .autoname Plugin",
       "value": "",
       "required": false
     },
