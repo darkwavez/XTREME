@@ -1,8 +1,3 @@
-<p align="center">
-    <a href="https://github.com/darkwavez/XTREME-USERBOT"><img src="https://telegra.ph/file/57f98326a3639c9d29e44.jpg" alt="XTREME" width=400px></a>
-    <br>
-    <br>
-</p>
 
 <h1>XTREME</h1>
 <b>MOST PLUGGABLE Telegram UserBot</b>
